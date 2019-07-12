@@ -1,0 +1,13 @@
+name: dsgoamazon
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - pip:
+    - opencv-python
+    - opencv-contrib-python
+ 
